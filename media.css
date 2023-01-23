@@ -2,10 +2,10 @@
 
     /* Header Section */
     .Header-section {
-        background-color: blue;
+        /* background-color: blue;
         display: grid;
         grid-template-columns: 1fr;
-        clear: both;
+        clear: both; */
     }
 
     .Header-section img {
@@ -52,7 +52,11 @@
     }
 
     /* footer */
+    .contant-footer{
+        
+    }
     .footer {
+        background-color: black;
         flex-direction: column;
         display: grid;
         grid-template-columns: 1fr;
